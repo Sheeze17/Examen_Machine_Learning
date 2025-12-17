@@ -26,3 +26,12 @@ de falsos positivos.
 
 ## Autor
 Examen académico – Machine Learning
+
+## Datos
+
+Los datasets originales no se incluyen en este repositorio debido a las
+restricciones de tamaño de GitHub (>100MB).
+
+Para reproducir el proyecto, se deben ubicar los archivos `.parquet`
+en la carpeta `datos_examen/` respetando los nombres originales.
+
