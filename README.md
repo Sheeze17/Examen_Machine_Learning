@@ -66,8 +66,11 @@ prediccion:
 
 0 en caso contrario
 
-## Nota:
+##Nota:
 Si se envía un JSON vacío {} o con llaves incorrectas, la API puede retornar un error 500, ya que el DataFrame generado no coincide con las variables esperadas por el modelo.
+
+## Autor
+Examen académico – Machine Learning
 
 ## Datos
 
