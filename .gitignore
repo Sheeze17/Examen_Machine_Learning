@@ -1,0 +1,25 @@
+# Entorno Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Datos pesados (opcional, académico OK si los dejas)
+# Si el profe NO exige los datos, puedes ignorarlos
+# datos_examen/
+
+# Modelos (en este examen SÍ los subimos, así que NO los ignores)
+# artifacts/*.joblib
