@@ -17,6 +17,9 @@ venv/
 .DS_Store
 Thumbs.db
 
+datos_examen/
+*.parquet
+
 # Datos pesados (opcional, académico OK si los dejas)
 # Si el profe NO exige los datos, puedes ignorarlos
 # datos_examen/
